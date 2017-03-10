@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 10, 2017
 
 ### Student Name:  
-(First and Last Name)
+Karla Vazquez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Gained a better understanding of how photo galleries worked online.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1.The DOM. The DOM really puts into perspective how websites and objects are loaded on websites.
+2. The different data types there are in Javascript.
+3. How to access CSS properties and attributes. 
